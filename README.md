@@ -5,7 +5,7 @@
 
 <small><b>HackTheBox:</b></small><br>
 <a href="https://academy.hackthebox.com/achievement/717302/15" target="_blank">
-   <img src="https://academy.hackthebox.com/storage/modules/15/logo.png" weight=300px height=200px>
+   <img src="https://academy.hackthebox.com/storage/modules/15/logo.png" weight=200px height=200px>
 </a>
 
 
