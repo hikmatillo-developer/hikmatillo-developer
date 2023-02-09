@@ -1,4 +1,4 @@
-### Hi there 👋 I'm a Python Developer!
+### Hi there 👋 I'm a Python Developer! Below are my achievements!
 <small><b>Codewars:</b></small><br>
 <img src="https://www.codewars.com/users/hikmatillo_developer/badges/large">
 <br><br>
