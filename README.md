@@ -7,9 +7,10 @@
      width=60px height=60px>
 </a>
 
-
 <small><b>Codewars:</b></small><br>
-<img src="https://www.codewars.com/users/hikmatillo_developer/badges/large">
+<a href="https://www.codewars.com/users/hikmatillo_developer" target="_blank">
+   <img src="https://www.codewars.com/users/hikmatillo_developer/badges/large">
+</a>
 
 <small><b>HackTheBox:</b></small><br>
 <a href="https://academy.hackthebox.com/achievement/717302/15" target="_blank">
