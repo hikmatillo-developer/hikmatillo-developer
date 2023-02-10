@@ -4,7 +4,7 @@
 <small><b>Mohirdev Praktikum (Data Science & AI):</b></small><br>
 <a href="https://praktikum.mohirdev.uz/certificate/verify?id=prac-aL7J5D6cP" target="_blank">
    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQW61MBwEJUh5OgGEJBhfmWMe6VrLzYLHYfEmo1HzrtVmtFJDTvKziwoAdWjCWrl5zLgZw&usqp=CAU"
-     width=80px height=80px>
+     width=60px height=60px>
 </a>
 
 
