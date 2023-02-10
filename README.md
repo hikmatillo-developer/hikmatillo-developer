@@ -6,11 +6,10 @@
    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQW61MBwEJUh5OgGEJBhfmWMe6VrLzYLHYfEmo1HzrtVmtFJDTvKziwoAdWjCWrl5zLgZw&usqp=CAU"
      width=80px height=80px>
 </a>
-<br>
+
 
 <small><b>Codewars:</b></small><br>
 <img src="https://www.codewars.com/users/hikmatillo_developer/badges/large">
-<br>
 
 <small><b>HackTheBox:</b></small><br>
 <a href="https://academy.hackthebox.com/achievement/717302/15" target="_blank">
